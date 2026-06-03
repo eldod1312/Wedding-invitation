@@ -9,7 +9,7 @@ export const invitation = {
   venue: 'Down Town Beach',
   locationLabel: 'Down Town Beach',
   mapsUrl: 'https://maps.app.goo.gl/m7sjU3UZ5wV1CbTZ7?g_st=aw',
-  mapsUrl2: 'https://maps.app.goo.gl/m7sjU3UZ5wV1CbTZ7?g',
+  
   mapsUrlChurch: 'https://maps.app.goo.gl/D2hBBp57xRBLHBpJ7',
   note: 'Together with their families, Fady and Nardeen request the pleasure of your company as they begin their forever.',
 };
