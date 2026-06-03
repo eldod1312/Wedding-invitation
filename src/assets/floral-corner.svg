@@ -1,0 +1,10 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gold floral corner">
+  <path d="M36 204C64 139 103 84 204 36" stroke="#C89D42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M65 164C38 154 34 127 57 112C78 98 99 113 96 137" stroke="#C89D42" stroke-width="1.6"/>
+  <path d="M106 111C81 88 94 55 125 55C153 55 164 83 145 103" stroke="#C89D42" stroke-width="1.6"/>
+  <path d="M144 78C136 43 166 22 192 40C215 56 208 88 181 96" stroke="#C89D42" stroke-width="1.6"/>
+  <path d="M86 146C112 149 131 166 139 194" stroke="#C89D42" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M119 103C146 104 169 116 187 142" stroke="#C89D42" stroke-width="1.6" stroke-linecap="round"/>
+  <circle cx="36" cy="204" r="5" fill="#C89D42"/>
+  <circle cx="204" cy="36" r="5" fill="#C89D42"/>
+</svg>

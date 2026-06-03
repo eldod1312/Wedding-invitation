@@ -1,0 +1,9 @@
+<svg width="420" height="74" viewBox="0 0 420 74" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gold ornamental divider">
+  <path d="M14 37H151" stroke="#C89D42" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M269 37H406" stroke="#C89D42" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M210 8C224 22 224 52 210 66C196 52 196 22 210 8Z" stroke="#C89D42" stroke-width="1.4"/>
+  <path d="M187 37C199 24 221 24 233 37C221 50 199 50 187 37Z" stroke="#C89D42" stroke-width="1.4"/>
+  <circle cx="210" cy="37" r="5.5" fill="#C89D42"/>
+  <circle cx="164" cy="37" r="3" fill="#C89D42"/>
+  <circle cx="256" cy="37" r="3" fill="#C89D42"/>
+</svg>
