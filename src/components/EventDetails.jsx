@@ -5,7 +5,7 @@ export default function EventDetails({ invitation }) {
     <section className="px-5 py-16 sm:px-8" id="details">
       <div className="mx-auto max-w-6xl">
         <div className="grid gap-6 md:grid-cols-3">
-          <DetailCard label="The Wedding Ceremony" value="St. Shenouda the Archimandrite Church" helper="5:00 PM" />
+          <DetailCard label="The Wedding Ceremony" value="St. Shenouda the Archimandrite Church" helper="6:00 PM" />
 
           <DetailCard label="Venue" value={invitation.venue} helper="8:00 PM" />
 
