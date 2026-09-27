@@ -4,7 +4,7 @@ export const invitation = {
     bride: 'Nardeen',
   },
   date: '2026-11-09T20:00:00+03:00',
-  displayDate: 'Sunday, 9 November 2026',
+  displayDate: 'Monday, 9 November 2026',
   ceremonyTime: '8:00 PM',
   venue: 'Down Town Beach',
   locationLabel: 'Down Town Beach',
